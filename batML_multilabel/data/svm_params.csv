@@ -1,0 +1,3 @@
+﻿model,C,kernel,degree,gamma_svm,class_weight,max_iter
+svm_spectrogram,10,rbf,6,1,None,1500
+svm_call,10,rbf,14,100,None,2500
